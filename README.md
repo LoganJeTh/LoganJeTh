@@ -1,5 +1,5 @@
-<h1>Hi, I'm Logan, an <a href="www.linkedin.com/in/logan-thornton-j">
-IT Professional</a>☺</h1>
+<a><h1>Hi, I'm Logan, an [IT Professional](https://linkedin.com/in/logan-thornton-j)
+</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -13,8 +13,11 @@ IT Professional</a>☺</h1>
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Logan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+(https://linkedin.com/in/logan-thornton-j)
 
-[linkedin]: www.linkedin.com/in/logan-thornton-299280a4
+
+
+
 
 
